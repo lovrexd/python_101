@@ -157,8 +157,8 @@ Python instaliran na ovaj način dolazi sa svim standardnim dijelovima
 jezika i jednostavno ga je instalirati putem uobičajenog grafičkog
 sučelja za instalaciju *desktop* aplikacija. Na slici 1
 vidimo kako izgleda pokretanje instalacije novijih verzija Pythona.
-<div style="text-align: center;">
-Slika 1: Instalacija Pythona na Windows OS-u
+
+<div style="text-align: center;">Slika 1: Instalacija Pythona na Windows OS-u
 
 ![Slika 1: Instalacija Pythona na Windows OS-u](../images/windows_install.png)
 
