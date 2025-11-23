@@ -8,6 +8,8 @@ piksela" ili "skreni lijevo za 45 stupnjeva". Kornjača se najčešće
 prikazuje kao strelica, a vrlo je lako s njom početi eksperimentirati i
 interaktivno.
 
+Slika 5: Interaktivan rad s kornjačom
+
 <figure id="fig:turtle_idle" data-latex-placement="ht">
 <img src="../images/turtle_idle.png" />
 <figcaption>Interaktivan rad s kornjačom</figcaption>
@@ -171,4 +173,5 @@ Ipak, ovi primjeri su uglavnom napredni i koriste mnoge koncepte koje
 još nismo objasnili pa u njih nećemo sada dublje ulaziti. Ovdje su
 spomenuti jer prikazuju mogućnost programiranja radi kreativnog procesa
 radije no pragmatične vrijednosti programa.
+
 
