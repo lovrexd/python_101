@@ -42,6 +42,8 @@ skriptu!
 
 Najjednostavnije rješenje ovog problema je kako slijedi:
 
+Slika 6: Rezultat programa Kornjača i kvadrat 1
+
 <figure id="fig:turtle_square" data-latex-placement="H">
 <img src="../images/turtle_square.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i kvadrat 1</figcaption>
@@ -85,10 +87,13 @@ napraviti turn_angle = 120 \# stupanj pod kojim se skreće \# ...
 
 </div>
 
+Slika 7: Rezultat programa Kornjača i trokut
+
 <figure id="fig:turtle_triangle" data-latex-placement="H">
-<img src="turtle_triangle" style="width:50.0%" />
+<img src="../images/turtle_triangle.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i trokut</figcaption>
 </figure>
+
 
 <div class="pythonp">
 
@@ -97,8 +102,10 @@ napraviti turn_angle = 60 \# stupanj pod kojim se skreće \# ...
 
 </div>
 
+Slika 8: Rezultat programa Kornjača i heksagon
+
 <figure id="fig:turtle_heksagon" data-latex-placement="H">
-<img src="turtle_hex" style="width:50.0%" />
+<img src="../images/turtle_hex.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i heksagon</figcaption>
 </figure>
 
@@ -119,8 +126,10 @@ broj stranica, tako raste i veličina. Na slici
 data-reference="fig:turtle_big_poly">5</a> vidimo poligon koji je
 pobjegao s ekrana.
 
+Slika 9: Interaktivan rad s kornjačom
+
 <figure id="fig:turtle_big_poly" data-latex-placement="ht">
-<img src="turtle_big_poly" style="width:75.0%" />
+<img src="../images/turtle_big_poly.png" style="width:75.0%" />
 <figcaption>Interaktivan rad s kornjačom</figcaption>
 </figure>
 
@@ -164,8 +173,10 @@ kliknemo na "start", dobiti ćemo sliku
 <a href="#fig:turtle_examples" data-reference-type="ref"
 data-reference="fig:turtle_examples">6</a>.
 
+Slika 10: Napredni primjeri mogućnosti s kornjačom
+
 <figure id="fig:turtle_examples" data-latex-placement="ht">
-<img src="turtle_examples" />
+<img src="../images/turtle_examples.png" />
 <figcaption>Napredni primjeri mogućnosti s kornjačom</figcaption>
 </figure>
 
@@ -173,6 +184,7 @@ Ipak, ovi primjeri su uglavnom napredni i koriste mnoge koncepte koje
 još nismo objasnili pa u njih nećemo sada dublje ulaziti. Ovdje su
 spomenuti jer prikazuju mogućnost programiranja radi kreativnog procesa
 radije no pragmatične vrijednosti programa.
+
 
 
 
