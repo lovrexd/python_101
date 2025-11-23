@@ -156,7 +156,7 @@ koristi znanjem koje smo već usvojili.
 Također, vrijedi spomenuti da smo ovdje prikazali samo najosnovnije
 mogućnosti kornjače pa ćemo se na to još vratiti, ali ako netko želi
 eksperimentirati s kornjačom više neka se referira na [službenu
-dokumentaciju](https://docs.python.org/3.8/library/turt le.html).
+dokumentaciju](https://docs.python.org/3.8/library/turtle.html).
 Čitanje dokumentacije i traženje odgovora *online* je i dobra vježba jer
 se radi o nezaobilaznom koraku prilikom programiranja, a na čitanje
 dokumentacije se treba naviknuti (i to pogotovo kada se radi o službenoj
@@ -184,6 +184,7 @@ Ipak, ovi primjeri su uglavnom napredni i koriste mnoge koncepte koje
 još nismo objasnili pa u njih nećemo sada dublje ulaziti. Ovdje su
 spomenuti jer prikazuju mogućnost programiranja radi kreativnog procesa
 radije no pragmatične vrijednosti programa.
+
 
 
 
