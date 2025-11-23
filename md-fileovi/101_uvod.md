@@ -229,12 +229,13 @@ Osim same komandne linije, IDLE funkcionira i kao program za izradu
 tekstualnih datoteka odnosno omogućuje i standardan pristup
 programiranju. Ako iz padajućeg izbornika odaberemo mogućnost
 \"File-\>New File\", otvoriti će nam se nova tekstualna datoteka kao što
-je vidljivo na slici [3](#fig:idle_text){reference-type="ref"
-reference="fig:idle_text"}. Datoteka sadrži tipičan program za prvi
+je vidljivo na slici 3. Datoteka sadrži tipičan program za prvi
 susret s programiranjem koji ćemo kasnije podrobnije analizirati.
 
-![IDLE i pisanje tekstualnih datoteka](idle_text){#fig:idle_text
-width="\\textwidth"}
+Slika 3: IDLE i pisanje tekstualnih datoteka
+
+![Slika 3: IDLE i pisanje tekstualnih datoteka](../images/idle_text.png)
+
 
 Novi prozor koji nam se otvorio je jednostavan program za pisanje
 tekstualnih datoteka (poput Notepada i sličnog softvera), a ne komandna
@@ -244,12 +245,11 @@ izbornika \"Run-\>Run Module\" ili pritiskom na tipku \"F5\". Jedini
 zahtjev je da prvo sačuvamo datoteku na disk pri čemu je dobro paziti da
 joj dodijelimo ekstenziju .py. IDLE kao softver je, naime, dosta
 asketske prirode pa neke verzije ne paze na to umjesto nas. Rezultat ove
-radnje je vidljiv na slici [4](#fig:idle_text_run){reference-type="ref"
-reference="fig:idle_text_run"}.
+radnje je vidljiv na slici 4.
 
-![IDLE i rezultat izvršavanja
-programa](idle_text_run){#fig:idle_text_run width="\\textwidth"}
+Slika 4: IDLE i rezultat izvršavanja programa
 
+![Slika 4: IDLE i rezultat izvršavanja programa](../images/idle_text_run.png)
 Upravo smo izvršili računalni program! Ovu datoteku nismo morali
 pokretati kroz IDLE, mogli smo je i jednostavno pokrenuti direktno iz
 operativnog sustava. Ipak, prije no što se bacimo na samo programiranje
