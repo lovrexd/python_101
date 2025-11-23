@@ -4,15 +4,13 @@ Konverzija .tex > .md > .html > i uređivanje koda
 ## Sadržaj
 * [Uvod](md-fileovi/101_uvod.md)
 
-### Osnovni pojmovi i uvod
+### Osnovni pojmovi
 
 * [Clean](md-fileovi/102_clean.md)
 * [Radnje](md-fileovi/102_radnje.md)
 * [Podaci](md-fileovi/103_podaci.md)
 * [Moduli](md-fileovi/104_moduli.md)
 * [Kontrola toka](md-fileovi/105_kontrola_toka.md)
-* [Dodatni pojmovi (102.md)](md-fileovi/102.md)
-* [Kondicionali (105-kond.md)](md-fileovi/105-kond.md)
 
 ### Primjeri programa
 
@@ -28,7 +26,7 @@ Konverzija .tex > .md > .html > i uređivanje koda
 * [Tekstualne datoteke](md-fileovi/203_tekstualne_datoteke.md)
 
 ### Funkcije i modularnost
-
+* [Definicija funkcija](md_fileovi/300_definicija_funkcija.md)
 * [Definicija funkcija 2](md-fileovi/301_def_funkcija2.md)
 * [Vlastite funkcije](md-fileovi/301_vlastite_funkcije.md)
 
