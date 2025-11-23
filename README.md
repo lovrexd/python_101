@@ -14,7 +14,7 @@ Konverzija .tex > .md > .html > i uređivanje koda
 
 ### Primjeri programa
 
-* [Kornjača (Turtle Graphics)](md-fileovi/106_ex_kornjaca_proc.md)
+* [Kornjača](md-fileovi/106_ex_kornjaca_proc.md)
 * [Kalkulator](md-fileovi/107_ex_kalkulator_proc.md)
 * [Pogodi Broj](md-fileovi/108_ex_pogodi_broj_proc.md)
 
