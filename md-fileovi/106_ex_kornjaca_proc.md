@@ -9,7 +9,7 @@ prikazuje kao strelica, a vrlo je lako s njom početi eksperimentirati i
 interaktivno.
 
 <figure id="fig:turtle_idle" data-latex-placement="ht">
-<img src="turtle_idle" />
+<img src="../images/turtle_idle.png" />
 <figcaption>Interaktivan rad s kornjačom</figcaption>
 </figure>
 
@@ -171,3 +171,4 @@ Ipak, ovi primjeri su uglavnom napredni i koriste mnoge koncepte koje
 još nismo objasnili pa u njih nećemo sada dublje ulaziti. Ovdje su
 spomenuti jer prikazuju mogućnost programiranja radi kreativnog procesa
 radije no pragmatične vrijednosti programa.
+
