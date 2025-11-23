@@ -155,9 +155,10 @@ Standardna instalacija na Windows OS-u se obavlja putem \"instalera\"
 referentne implementacije Pythona s [python.org](http://www.python.org).
 Python instaliran na ovaj način dolazi sa svim standardnim dijelovima
 jezika i jednostavno ga je instalirati putem uobičajenog grafičkog
-sučelja za instalaciju *desktop* aplikacija. Na slici
-[1](#fig:wininstall){reference-type="ref" reference="fig:wininstall"}
+sučelja za instalaciju *desktop* aplikacija. Na slici 1
 vidimo kako izgleda pokretanje instalacije novijih verzija Pythona.
+
+Slika 1: Instalacija Pythona na Windows OS-u
 
 ![Slika 1: Instalacija Pythona na Windows OS-u](../images/windows_install.png)
 
