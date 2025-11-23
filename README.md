@@ -1,4 +1,4 @@
-# python_101 🐍
+# python_101
 Konverzija .tex > .md > .html > i uređivanje koda
                                                                                                
 ## Sadržaj
