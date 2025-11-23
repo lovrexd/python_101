@@ -208,11 +208,12 @@ koncepata i eksperimentaciju s mogućnostima. IDLE se ponaša kao i većina
 aplikacija s grafičkim sučeljem, odnosno moguće ju je pokrenuti kroz
 *Start menu* ili ekvivalente u drugim operativnim sustavima.
 
+Slika 2: Izvršavanje Python kôda putem sučelja IDLE
+
 ![Slika 2: Izvršavanje Python kôda putem sučelja IDLE](../images/idle.png)
 
 Kada pokrenemo IDLE, dočekati će nas glavno sučelje ovog programa koje
-je prikazano na slici [2](#fig:idle){reference-type="ref"
-reference="fig:idle"}. U glavnom prozoru IDLE-a naredbe se upisuju nakon
+je prikazano na slici 2. U glavnom prozoru IDLE-a naredbe se upisuju nakon
 redaka koje počinju s \"$>>>$\", a izvršavaju pritiskom na tipku *enter*
 odnosno *return*. U ovom slučaju smo izvršili jednostavan *izraz*
 `1 + 1`{.python}. Kada se taj izraz evaluira pritiskom na tipku *enter*,
