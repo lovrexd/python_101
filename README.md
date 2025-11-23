@@ -2,10 +2,10 @@
 Konverzija .tex > .md > .html > i uređivanje koda
                                                                                                
 ## Sadržaj
+* [Uvod](md-fileovi/101_uvod.md)
 
 ### Osnovni pojmovi i uvod
 
-* [Uvod](md-fileovi/101_uvod.md)
 * [Clean](md-fileovi/102_clean.md)
 * [Radnje](md-fileovi/102_radnje.md)
 * [Podaci](md-fileovi/103_podaci.md)
