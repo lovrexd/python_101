@@ -1,1 +1,15 @@
+´´´ python
+\include{_preamble}
 
+\title{Python: Uvod u računalni tekst}
+
+\begin{document}
+
+\include{_open}
+\include{301_text_intro}
+\include{302_tekst_python}
+\include{303_tekstualne_datoteke}
+\include{_close}
+
+\end{document}
+´´´
