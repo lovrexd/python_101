@@ -43,7 +43,7 @@ skriptu!
 Najjednostavnije rješenje ovog problema je kako slijedi:
 
 <figure id="fig:turtle_square" data-latex-placement="H">
-<img src="turtle_square" style="width:50.0%" />
+<img src="../images/turtle_square.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i kvadrat 1</figcaption>
 </figure>
 
@@ -173,5 +173,6 @@ Ipak, ovi primjeri su uglavnom napredni i koriste mnoge koncepte koje
 još nismo objasnili pa u njih nećemo sada dublje ulaziti. Ovdje su
 spomenuti jer prikazuju mogućnost programiranja radi kreativnog procesa
 radije no pragmatične vrijednosti programa.
+
 
 
